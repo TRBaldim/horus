@@ -1,2 +1,16 @@
-# horus
-Kafka and GDPR together could be a Nightmare if you are using an Event Store and you need to remove some data. Horus is above us and will handle this for you.
+# Horus
+
+Horus is an Egypt God that one of your name translations means **The one who is above** this is a great reason to build
+a library that can allow projects that rely in Event Store with the new laws of GDPR in europe. Or even if your project 
+want to ensure the data privacy of your customers this is a good model that can help you.
+
+<p align="center">
+  <img src="https://d30y9cdsu7xlg0.cloudfront.net/png/27083-200.png">
+</p>
+
+### Inspiration
+
+I'm using a blog post as inspiration to implement this functionality that can be checked 
+[here](http://danlebrero.com/2018/04/11/kafka-gdpr-event-sourcing/). 
+
+
