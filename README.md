@@ -5,7 +5,7 @@ a library that can allow projects that rely in Event Store with the new laws of 
 want to ensure the data privacy of your customers this is a good model that can help you.
 
 <p align="center">
-  <img src="https://d30y9cdsu7xlg0.cloudfront.net/png/27083-200.png">
+  <img src="/media/horus_eye.png">
 </p>
 
 ### Inspiration
